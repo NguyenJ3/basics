@@ -6,7 +6,6 @@ correctPin =  "3014489"
 
 enteredPin = (input("Enter your pin!"))
 
-tries += 1
 
 confirmation =  "Yes"
 
